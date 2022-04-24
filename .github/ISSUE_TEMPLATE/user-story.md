@@ -1,6 +1,6 @@
 ---
-name: user story
-about: learning user stories
+name: User Story
+about: this template is to create Agile User Story
 title: ''
 labels: ''
 assignees: ''
